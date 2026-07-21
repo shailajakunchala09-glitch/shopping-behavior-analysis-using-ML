@@ -117,20 +117,31 @@ Key business takeaways:
   model — and the business — should watch repeat-purchase behaviour, not just
   one-off basket size.
 
-## 🖼️ Screenshots
+## 📊 Dashboard & Model Visualizations
 
-| | |
-|---|---|
-| ![Gender Distribution](Screenshots/eda_gender_distribution.png) | ![Category Sales](Screenshots/eda_category_sales.png) |
-| ![Top 10 Products](Screenshots/eda_top10_products.png) | ![Age Group](Screenshots/eda_age_group.png) |
-| ![Heatmap](Screenshots/eda_heatmap_category_age.png) | ![Purchase Frequency](Screenshots/eda_purchase_frequency.png) |
-| ![Confusion Matrix](Screenshots/model_confusion_matrix.png) | ![Feature Importance](Screenshots/model_feature_importance.png) |
-| ![Decision Tree](Screenshots/model_decision_tree.png) | |
+### 📈 Exploratory Data Analysis
 
-*(Add real Power BI page screenshots here once you've built the `.pbix` following the
-build guide — `powerbi_page1_overview.png`, `powerbi_page2_behaviour.png`,
-`powerbi_page3_ml.png`.)*
+![Gender Distribution](eda_gender_distribution.png)
 
+![Category Sales](eda_category_sales.png)
+
+![Top Products](eda_top10_products.png)
+
+![Age Group Analysis](eda_age_group.png)
+
+![Heatmap Analysis](eda_heatmap_category_age.png)
+
+![Purchase Frequency](eda_purchase_frequency.png)
+
+---
+
+### 🤖 Machine Learning Model Results
+
+![Confusion Matrix](model_confusion_matrix.png)
+
+![Feature Importance](model_feature_importance.png)
+
+![Decision Tree](model_decision_tree.png)
 ## 📁 Project Structure
 
 ```
